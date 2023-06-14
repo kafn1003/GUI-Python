@@ -1,2 +1,2 @@
 # GUI-Python
-GUI Implementation using Python Tkinter
+Graphical User Implementation using Python Tkinter
