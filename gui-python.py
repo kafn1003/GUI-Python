@@ -1,4 +1,4 @@
-#importing libraries
+#importing the libraries
 import tkinter
 from tkinter import *
 from tkinter import messagebox
